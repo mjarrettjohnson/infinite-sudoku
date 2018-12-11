@@ -1,0 +1,27 @@
+.cell {
+  /* width: 5vh;
+  min-height: 4vh; */
+  color: #cfa5c4;
+  height: 5.53vh;
+  border-right: 1px solid #b4b1b1;
+  border-bottom: 1px solid #b4b1b1;
+  text-align: center;
+  padding-top: 5px;
+}
+
+.cell:first-child {
+  border-left: 1px solid #b4b1b1;
+}
+.default {
+  background: #202020;
+}
+
+.filled {
+  background: #323232;
+  color: white;
+}
+
+.updated {
+  background: #aaa8a8;
+  color: #fffefe;
+}
